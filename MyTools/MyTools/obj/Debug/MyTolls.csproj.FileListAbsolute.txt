@@ -1,0 +1,13 @@
+C:\Users\abdalwahed\source\repos\PictureSizeChange\PictureSizeChange\bin\Debug\PictureSizeChange.exe.config
+C:\Users\abdalwahed\source\repos\PictureSizeChange\PictureSizeChange\bin\Debug\PictureSizeChange.exe
+C:\Users\abdalwahed\source\repos\PictureSizeChange\PictureSizeChange\bin\Debug\PictureSizeChange.pdb
+C:\Users\abdalwahed\source\repos\PictureSizeChange\PictureSizeChange\bin\Debug\SautinSoft.PdfFocus.dll
+C:\Users\abdalwahed\source\repos\PictureSizeChange\PictureSizeChange\bin\Debug\SautinSoft.PdfFocus.xml
+C:\Users\abdalwahed\source\repos\PictureSizeChange\PictureSizeChange\obj\Debug\MyTolls.csprojAssemblyReference.cache
+C:\Users\abdalwahed\source\repos\PictureSizeChange\PictureSizeChange\obj\Debug\PictureSizeChange.MyTools.resources
+C:\Users\abdalwahed\source\repos\PictureSizeChange\PictureSizeChange\obj\Debug\PictureSizeChange.Properties.Resources.resources
+C:\Users\abdalwahed\source\repos\PictureSizeChange\PictureSizeChange\obj\Debug\MyTolls.csproj.GenerateResource.cache
+C:\Users\abdalwahed\source\repos\PictureSizeChange\PictureSizeChange\obj\Debug\MyTolls.csproj.CoreCompileInputs.cache
+C:\Users\abdalwahed\source\repos\PictureSizeChange\PictureSizeChange\obj\Debug\MyTolls.csproj.CopyComplete
+C:\Users\abdalwahed\source\repos\PictureSizeChange\PictureSizeChange\obj\Debug\PictureSizeChange.exe
+C:\Users\abdalwahed\source\repos\PictureSizeChange\PictureSizeChange\obj\Debug\PictureSizeChange.pdb
